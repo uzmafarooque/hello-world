@@ -1,2 +1,6 @@
 # hello-world
-My first Github Project
+
+Hi everyone!
+Alfatmi here.
+Have fun with coding!
+
